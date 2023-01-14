@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://nyuumaan.github.io/csb-hdv13f/static/css/main.7b2ab91a.chunk.css",
-    "main.js": "https://nyuumaan.github.io/csb-hdv13f/static/js/main.2df81f92.chunk.js",
-    "main.js.map": "https://nyuumaan.github.io/csb-hdv13f/static/js/main.2df81f92.chunk.js.map",
+    "main.js": "https://nyuumaan.github.io/csb-hdv13f/static/js/main.4e8aafb6.chunk.js",
+    "main.js.map": "https://nyuumaan.github.io/csb-hdv13f/static/js/main.4e8aafb6.chunk.js.map",
     "runtime-main.js": "https://nyuumaan.github.io/csb-hdv13f/static/js/runtime-main.83b8aee4.js",
     "runtime-main.js.map": "https://nyuumaan.github.io/csb-hdv13f/static/js/runtime-main.83b8aee4.js.map",
-    "static/js/2.83e1e3a1.chunk.js": "https://nyuumaan.github.io/csb-hdv13f/static/js/2.83e1e3a1.chunk.js",
-    "static/js/2.83e1e3a1.chunk.js.map": "https://nyuumaan.github.io/csb-hdv13f/static/js/2.83e1e3a1.chunk.js.map",
+    "static/js/2.e12d553a.chunk.js": "https://nyuumaan.github.io/csb-hdv13f/static/js/2.e12d553a.chunk.js",
+    "static/js/2.e12d553a.chunk.js.map": "https://nyuumaan.github.io/csb-hdv13f/static/js/2.e12d553a.chunk.js.map",
     "index.html": "https://nyuumaan.github.io/csb-hdv13f/index.html",
     "static/css/main.7b2ab91a.chunk.css.map": "https://nyuumaan.github.io/csb-hdv13f/static/css/main.7b2ab91a.chunk.css.map",
-    "static/js/2.83e1e3a1.chunk.js.LICENSE.txt": "https://nyuumaan.github.io/csb-hdv13f/static/js/2.83e1e3a1.chunk.js.LICENSE.txt"
+    "static/js/2.e12d553a.chunk.js.LICENSE.txt": "https://nyuumaan.github.io/csb-hdv13f/static/js/2.e12d553a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83b8aee4.js",
-    "static/js/2.83e1e3a1.chunk.js",
+    "static/js/2.e12d553a.chunk.js",
     "static/css/main.7b2ab91a.chunk.css",
-    "static/js/main.2df81f92.chunk.js"
+    "static/js/main.4e8aafb6.chunk.js"
   ]
 }
